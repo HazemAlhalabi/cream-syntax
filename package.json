@@ -1,0 +1,21 @@
+{
+  "name": "cream-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A cream colored syntax theme. Easy on the eyes with emphasis on readability and aesthetics.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "cream",
+    "simple",
+    "minimal",
+    "cute",
+    "readability",
+    "cozy"
+  ],
+  "repository": "https://github.com/HazemAlhalabi/cream-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
